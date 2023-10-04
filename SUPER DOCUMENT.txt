@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Mercredi = vendredi = fin de semaine plus rapide ????????
+=======
+Mercredi = vendredi 
+>>>>>>> cc32bad428eca6551d408b5888fd40506a44d061
 
 Changement d'un équipier
